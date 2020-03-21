@@ -1,2 +1,2 @@
-# CoronoVirus-Tracker
+# CoronaVirus-Tracker
 A corona virus tracking python script which uses web scraping
